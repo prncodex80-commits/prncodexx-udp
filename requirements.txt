@@ -4,3 +4,4 @@ protobuf==5.28.2
 protobuf-decoder==0.4.0
 pycryptodome==3.21.0
 google-play-scraper==1.2.7
+gunicorn==23.0.0
